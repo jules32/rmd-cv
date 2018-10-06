@@ -1,0 +1,84 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    template: template.tex
+first: Julia S Stewart
+last: Lowndes
+nee: née Julia S Stewart
+email: lowndes@ nceas.ucsb.edu
+address: "NCEAS, 735 State St Ste 300, Santa Barbara, CA, 93101, USA"
+website: "jules32.github.io"
+orcid: 0000-0003-1682-3872
+languages: proficient Spanish, French
+programming: R, RStudio, GitHub
+github: jules32
+twitter: juliesquid
+attributes: "ohi-science.org/news; jules32.github.io"
+attributes2: "serial community builder, leader, team player, problem solver, collaborative thinker, teacher, organizer, communicator"
+attributes3: "chief scientist, analyst, program manager, content developer, programmer, workshop organizer & instructor, overall enabler"
+interests: "I work at the interface of science, policy, and data science. I do this as part of the [Ocean Health Index](http://ohi-science.org) team at the [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/) by enabling science-informed decision-making using collaborative, free tools I have co-developed. I have helped our team become a visible, cutting-edge leader of open, transparent, reproducible, and collaborative scientific practices, and am passionate about enabling others to do the same."
+edu:
+  - {degree: Science Program Lead, where: 2013-present, description_1: "Ocean Health Index", description_2: "National Center for Ecological Analysis & Synthesis, UC Santa Barbara" }
+  - {degree: Postdoctoral Fellow, where: 2012-2013, description_1: Biology, description_2: "NOAA Southwest Fisheries Science Center and Stanford University " }
+  - {degree: PhD, where: 2006-2012, description_1: "Biology [*“Humboldt squid in the northern California Current System”*](http://purl.stanford.edu/pb685tk3754)", description_2: "Stanford University" }
+  - {degree: BA, where: 1999-2004, description_1: Marine Biology, description_2: "University California at Los Angeles"}
+work:
+  - {year: 2018, where: NCEAS, what: Reproducible research for coral reefs}
+  - {year: 2018, where: Woods Hole Oceanographic Institution, what: Software Carpentry}
+  - {year: 2017, where: Monterey Bay Aquarium Research Institute, what: Software Carpentry}
+  - {year: Summer 2015, where: Cleveland Clinic, what: "Graduate Fellow, Department of Quantitative Health Sciences"}
+  - {year: 2012-2014, where: Washington University School of Medicine, what: "Statistical Data Analyst promoted from Research Assistant, Department of Surgery, Division of Public Health Sciences"}
+edu2:
+  - {degree: "", where: "", description_1: "*I am a co-founder of [**Eco-Data-Science**](http://eco-data-science.github.io/) and [**R-Ladies Santa Barbara**](https://www.meetup.com/rladies-santa-barbara/).*"}  
+  - {degree: Ocean Health Index, where: "", description_1: "*ohi-science.org*", description_2: "Created to teach and build community for ~20 groups leading OHI studies"}  
+  - {degree: Open Data Science, where: "", description_1: "*ohi-science.org/data-science-training*", description_2: "Created for the OHI community, [OHI Global Fellows Program](http://ohi-science.org/globalfellows/), [NCEAS](https://nceas.github.io/crescynt-training/data-integration), and Software Carpentry workshops ([UCSB](https://remi-daigle.github.io/2016-04-15-UCSB/overview), [Oxford](http://jules32.github.io/2016-07-12-Oxford/overview/), [Yosemite](https://snacktavish.github.io/2017-08-17-Yosemite/overview), [MBARI](https://jules32.github.io/2017-11-30-MBARI/overview/), [WHOI](https://jules32.github.io/2018-10-22-whoi/overview))"}  
+  - {degree: Ocean Health Index Toolbox, where: "", description_1: "*ohi-science.org/toolbox-training*", description_2: "Created for OHI trainings (Ecuador, Sweden, Hawaii, Canada, UK, Kenya, etc.)"}
+  - {degree: Tidy Coral, where: "", description_1: "*nceas.github.io/crescynt-training/tidy_coral*", description_2: "Created for NCEAS workshop for CRESCYNT coral reef scientists"}
+  - {degree: Websites with RMarkdown, where: "", description_1: "*jules32.github.io/rmarkdown-website-tutorial*", description_2: "Created for NCEAS Seminar and  [Eco-Data-Science](http://eco-data-science.github.io/) at UC Santa Barbara"}
+  - {degree: "", where: "", description_1: "*I also make lists of resources for data science, including ohi-science.org/betterscienceinlesstime, ohi-science.org/news/Resources-for-R-and-Data-Science, and ohi-science.org/news/importance-of-open-data-science-tools*."}  
+bibliography: jsl-publications.bib
+csl: apa.csl
+nocite: |
+  @lowndes2017our, @halpern2015spatial, @lowndes2015best, @halpern2015patterns, @stewart2014combined, @stewart2013behavioral, @gilly2012locomotion, @stewart2012marine, @stewart2005piscivorous 
+---
+
+# Select Invited Presentations
+\vspace{-0.5cm}
+
+2018 — Helmholz Open Science Institute: ["What is the OHI Toolbox and how can it help you? "](https://docs.google.com/presentation/d/1WKzbvF-XQl3lGzEc44fp8azssod9BcY2wMaAO0ZhFmk/edit?usp=sharing) \fn{Webinar} 
+
+2018 — National University of Samoa: ["The power of open science: experience from the OHI"](https://docs.google.com/presentation/d/14TteMSsHbzcEXG9zs9_mAOv0ivURTeJd7PewkSVqX2M/edit?usp=sharing)
+ \fn{Seminar}  
+
+
+2018 — Royal Belgian Institute of Natural Sciences: ["The power of open science: experience from the OHI"](https://docs.google.com/presentation/d/10KkXEv4r3wWtdKvB6RFOPe809eMNldODaRqQxn-jeME/edit?usp=sharing)
+ \fn{Keynote}
+
+
+2016 — Stanford University's Hopkins Marine Station: ["Being a Marine Data Scientist"](https://jules32.github.io/opensci-talk/#1) \fn{Seminar}    
+
+
+# Select Contributed Presentations
+\vspace{-0.5cm}
+2016 — Western Society of Naturalists: ["Better Science in Less Time"](https://jules32.github.io/opensci-talk/short#1) \fn{Presentation}  
+
+2016 — RStudio Shiny Developers’ Conference: ["The Ocean Health Index and Shiny"](http://ohi-science.org/ohimanual/tutorials/ohi_shiny/#1) \fn{Lightning Talk} 
+
+# Select Media About My Work
+\vspace{-0.5cm}
+2018 — [Computational Reproducibility in Science]() *(upcoming)* by J. Perkel \fn{Nature}  
+
+2018 — [.rprofile: Julia Stewart Lowndes](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/) by S. Kross and K. O'Briant \fn{rOpenSci}  
+
+2017 — [My digital toolbox: Julia Stewart Lowndes](http://blogs.nature.com/naturejobs/2017/05/23/techblog-julia-stewart-lowndes) by J. Perkel \fn{Nature} 
+
+2017 — [Ecologists Are Drowning in Sea of Data. These Tools Could Help](www.wired.com/2017/05/ecologists-drowning-sea-data-open-access-tools-help) by J. Rennie \fn{WIRED} 
+
+2015 — [Magical morphing jumbo squid are taking over the eastern Pacific](www.newscientist.com/article/mg22730380-600-magical-morphing-jumbo-squid-are-taking-over-the-eastern-pacific) by M. Tennesen \fn{New Scientist} 
+
+2012 — [Humboldt squid’s impressive dives](http://www.bbc.co.uk/news/science-environment-17117200) by J. Amos \fn{BBC} 
+
+
+# Select Peer-reviewed Publications 
+\vspace{-0.5cm}
